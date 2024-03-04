@@ -1,0 +1,10 @@
+[
+  {
+    "id": "call_AuapQxwvTuZAqxLdW5P2CRDg",
+    "type": "function",
+    "function": {
+      "name": "giveColor",
+      "arguments": "{\"object\":\"pomme\"}"
+    }
+  }
+]
